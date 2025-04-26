@@ -1,6 +1,8 @@
 # 哈尔滨工业大学-计算学部-2025春人工智能导论
 lab2-基于Mindspore框架与ModelArts 平台的MNIST手写体识别实验
+
 本项目为基于Mindspore框架的模型本地训练及预测部分
+
 代码包含py形式和ipynb形式
 
 # Contents
